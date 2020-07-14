@@ -363,7 +363,7 @@ footer ul{
 	display: -ms-flexbox;
 	display: flex;
 	margin-bottom: 25px;
-	font-size: 32px;
+	font-size: 23px;
 }
 
 footer ul li{
@@ -400,6 +400,7 @@ footer p a{
 #btn{
     font-size:48px;
     color:#c0cacf;
+    align-items: flex-end;
     
 }
 
